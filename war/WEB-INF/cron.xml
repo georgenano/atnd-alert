@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+	<cron>
+		<url>/sendmailqueue</url>
+		<description>every 1 hours</description>
+		<schedule>every 1 hours</schedule>
+		<timezone>Asia/Tokyo</timezone>
+	</cron>
+</cronentries>
